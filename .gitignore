@@ -1,0 +1,13 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+/bestbags-nodejs-ecommerce
+/DSA
+/pro_task
+/react-shift-scheduler
+/site
+/startup-nextjs-main
+
+/TNTChart-demo/node_modules/*
+
+
+/compressed
